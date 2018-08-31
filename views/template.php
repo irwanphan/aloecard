@@ -6,7 +6,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <?= $view->render('head') ?>
         <?php $view->style('theme', 'theme:css/theme.css') ?>
+        <?php $view->style('custom-uikit', 'theme:css/uikit.min.css') ?>
+
         <?php $view->script('theme', 'theme:js/theme.js') ?>
+
+
     </head>
     <body>
 

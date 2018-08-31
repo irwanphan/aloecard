@@ -1,15 +1,15 @@
 {
-    "name": "pagekit/theme-hello",
+    "name": "turbin/aloecard",
     "type": "pagekit-theme",
     "version": "1.0.3",
-    "title": "Hello",
-    "description": "A blueprint to develop your own themes.",
+    "title": "Aloecard",
+    "description": "First dealt.",
     "license": "MIT",
     "authors": [
         {
-            "name": "Pagekit",
-            "email": "info@pagekit.com",
-            "homepage": "http://pagekit.com"
+            "name": "Turbin",
+            "email": "hi@turbin.id",
+            "homepage": "http://turbin.id"
         }
     ],
     "extra": {
